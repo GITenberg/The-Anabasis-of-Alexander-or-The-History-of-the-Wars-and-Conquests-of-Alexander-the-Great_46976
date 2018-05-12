@@ -1,15 +1,21 @@
 _repo: The-Anabasis-of-Alexander-or-The-History-of-the-Wars-and-Conquests-of-Alexander-the-Great_46976
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Chinnock, E. J.
     gutenberg_agent_id: '44069'
     url: http://www.gutenberg.org/2009/agents/44069
+covers:
+- cover_type: archival
+  image_path: 46976-h/images/cover.jpg
 creator:
   author:
     agent_name: Nicomedia, Arrian of
     gutenberg_agent_id: '44068'
     url: http://www.gutenberg.org/2009/agents/44068
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46976#The-Anabasis-of-Alexander-or-The-History-of-the-Wars-and-Conquests-of-Alexander-the-Great
 gutenberg_issued: '2014-09-27'
 gutenberg_type: Text
 identifiers:
